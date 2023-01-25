@@ -1,0 +1,148 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgba(2, 104, 138, 0.956);
+    filter: drop-shadow(1px 1px 1px black);
+
+}
+    
+
+
+body {
+    background-image: linear-gradient(white,gray,gray);
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+}
+h3 {
+    font-family: 'Times New Roman', serif;
+    color: rgba(2, 104, 138, 0.956);
+    filter: drop-shadow(1px 1px 1px black);
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+}
+
+div {
+    font-size: 20px;
+}
+.abilities1 p{
+    color: black;
+    filter: drop-shadow(1px 1px 1px red);
+}
+.abilities2 p{
+    color: black;
+    filter: drop-shadow(1px 1px 1px rgb(3, 90, 109));
+}
+.abilities3 p{
+    color: black;
+    filter: drop-shadow(1px 1px 1px yellow);
+}
+article {
+    font-size: 20px;
+    color: black;
+}
+article:hover {
+    background-color: rgb(3, 90, 109);
+}
+
+.characters li {
+    font-size: 25px;
+    color: rgb(3, 90, 109);
+    filter: drop-shadow(1px 1px 1px black);
+
+}    
+
+img {
+    width: 150px;
+    height: 300px;
+    
+}
+
+.characters a{
+    color: red;
+    text-decoration: none;
+
+}
+#Dante h2:hover {
+    background-color: rgb(153, 13, 13);
+}
+#Dante h2{
+    color: black;
+    filter: drop-shadow(1px 1px 1px red);
+}
+#Dante img {
+    filter: drop-shadow(1px 1px 1px red);
+}
+#Vergil h2:hover {
+    background-color: rgb(3, 90, 109);
+}
+#Vergil h2{
+    color: black;
+    filter: drop-shadow(1px 1px 1px rgb(3, 90, 109));
+}
+#Vergil img {
+    filter: drop-shadow(1px 1px 1px rgb(3, 90, 109));
+}
+#Nero h2:hover {
+    background-color: yellow;
+}
+#Nero h2{
+    column-rule: black;
+    filter: drop-shadow(1px 1px 1px yellow);
+}
+#Nero img {
+    filter: drop-shadow(1px 1px 1px yellow);
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr td {
+    border: 0.1em solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#reb {
+    width: 100px;
+}
+
+
+strong {
+    color: rgb(3, 90, 109);
+    font-weight: 1000;
+    font-size: 18px;
+}
+#yamato{
+    color: black;
+    filter: drop-shadow(1px 1px 1px rgb(3, 90, 109));
+}
+#rebelion {
+    color: black;
+    filter: drop-shadow(1px 1px 1px red);
+}
+#redqueen{
+    color: black;
+    filter: drop-shadow(1px 1px 1px yellow);
+}
+
+#triggered {
+    height: 300px;
+    width: 200px;
+    padding-left: 50px;
+    clear: both;
+}
+footer {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    filter: drop-shadow(1px 1px 1px orange);
+}
